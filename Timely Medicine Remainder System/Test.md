@@ -238,7 +238,3 @@ This project is licensed under the [MIT License](LICENSE).
 ## 👨‍💻 Author
 
 Made with ❤️ by Arisudan TH
-
----
-
-This **README** file now includes the latest **code** you requested, and is ready to be used for your project documentation. Let me know if you need further changes!
