@@ -154,6 +154,6 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## 👨‍💻 Author
 
-Made with ❤️ by [Arisudan TH]
+Made with ❤️ by Arisudan TH
 
 ---
