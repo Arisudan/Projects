@@ -45,8 +45,8 @@ Perfect for beginners learning **computer vision**, **gesture control**, and **M
 2. **Clone this Repository**
 
 ```bash
-git clone https://github.com/Arisudan/Hand Gesture Using Python/Basic Hand Gesture using Python.git
-cd yourrepositoryname
+git clone https://github.com/Arisudan/Hand Gesture Using Python.git
+cd Hand Gesture Using Python/Basic Hand Gesture using Python
 ```
 
 Or simply download the project ZIP and extract it.
