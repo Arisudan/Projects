@@ -208,6 +208,14 @@ void loop() {
 | +          | GPIO 26   |
 | -          | GND       |
 
+### OLED Display to ESP32
+| OLED Display Pin | Connect to ESP32 Pin          |
+| ---------------- | ----------------------------- |
+| **VCC**          | **3.3V**                      |
+| **GND**          | **GND**                       |
+| **SCL**          | **GPIO 22** (Default I2C SCL) |
+| **SDA**          | **GPIO 21** (Default I2C SDA) |
+
 ---
 
 ## 📚 Libraries Required
